@@ -1,0 +1,37 @@
+﻿  Render.cpp
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(229,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(230,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(234,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(260,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(269,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(270,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(274,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(295,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(306,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(327,16): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(422,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(423,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(492,16): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(527,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(628,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(628,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(628,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(629,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(629,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(630,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(630,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(630,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(639,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(708,27): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(742,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(743,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(744,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(745,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(746,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(755,62): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(755,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(755,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(759,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(759,16): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\admin\Desktop\KGlabs-master\LAB4+\KGlab\Render.cpp(759,11): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  KGlab.vcxproj -> C:\Users\admin\Desktop\KGlabs-master\LAB4+\x64\Debug\KGlab.exe
